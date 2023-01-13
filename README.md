@@ -1,1 +1,1 @@
-# h4ck
+# Projects to practice pentesting
